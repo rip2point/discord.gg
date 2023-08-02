@@ -1,6 +1,7 @@
 getgenv().table = {
     Version = "2.0.0",
-    Invite = "solarhub"
+    Invite = "solarhub",
+    Key = "V2IsHere"
 }
 
 
