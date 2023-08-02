@@ -1,8 +1,6 @@
-getgenv().table = {
-    Version = "2.0.0",
-    Invite = "solarhub",
-    Key = "V2IsHere"
-}
+getgenv().Version = "2.0.0"
+getgenv().DiscordInvite = "solarhub"
+getgenv().Key = "V2IsHere"
 
 
 
