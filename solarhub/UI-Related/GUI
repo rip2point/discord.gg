@@ -1,4 +1,4 @@
-getgenv().Version = "2.0.1"
+getgenv().Version = "2.0.2"
 getgenv().DiscordInvite = "solarhub"
 getgenv().Key = "V2IsHere"
 
