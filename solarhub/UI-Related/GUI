@@ -1,7 +1,5 @@
-getgenv().Version = "2.0.3"
+getgenv().Version = "2.0.4"
 getgenv().DiscordInvite = "solarhub"
-getgenv().Key = "V2IsHere"
-
 
 
 function ActivateButton(parent, callback)
